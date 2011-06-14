@@ -1,0 +1,6 @@
+language: Ruby
+language-version: 1.9.2
+framework: Rails
+framework-version: 3.1
+descripttion: ...
+
